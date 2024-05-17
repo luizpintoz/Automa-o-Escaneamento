@@ -7,7 +7,7 @@ As posições do mouse varia dependendo da tela, então se for usar o código, t
 * Python 3.9 ou superior
 * PyAutoGUI
   
-# Como utilizar 
+# Como utilizar (Windows)
 * Você pode clonar o repositório ou baixar os arquivos
   
 Depois de clonar ou baixar os arquivos crie um ambiente virtual ("python -m venv venv"), depois de criado ative-o ("venv/Scripts/activate.ps1").
