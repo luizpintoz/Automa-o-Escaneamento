@@ -16,4 +16,4 @@ Depois de clonar ou baixar os arquivos crie um ambiente virtual ("python -m venv
 Após criar o ambiente e ativa-lo instalem o requeriments.txt ("pip install requeriments.txt")
 * Executar o arquivo app.py
 
-*Para utilizar no Linux ou Mac seguir os mesmos passos, porém, executar os comando do próprio sistema para as intalações necessárias.*
+*Para utilizar no Linux ou Mac seguir os mesmos passos, porém, executar os comando do próprio sistema para as instalações necessárias.*
