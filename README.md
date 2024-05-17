@@ -15,7 +15,7 @@ As posições do mouse varia dependendo da tela, então se for usar o código, t
 Depois de clonar ou baixar os arquivos crie um ambiente virtual ("python -m venv venv"), depois de criado ative-o ("venv/Scripts/activate.ps1").
 * Instalar requeriments.txt
 
-Após criar o ambiente e ativa-lo instalem o requeriments.txt ("pip install requeriments.txt")
+Após criar o ambiente e ativa-lo instalem o requeriments.txt ("pip install -r requeriments.txt")
 * Executar o arquivo app.py
 
 *Para utilizar no Linux ou Mac seguir os mesmos passos, porém, executar os comando do próprio sistema para as instalações necessárias.*
