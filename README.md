@@ -6,6 +6,8 @@ As posições do mouse varia dependendo da tela, então se for usar o código, t
 *Requisitos*
 * Python 3.9 ou superior
 * PyAutoGUI
+* Time
+* Subprocess
   
 # Como utilizar (Windows)
 * Você pode clonar o repositório ou baixar os arquivos
